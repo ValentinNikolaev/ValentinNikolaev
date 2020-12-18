@@ -12,8 +12,12 @@
      <img align="left" alt="Valentin's Deezer" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/deezer.svg" />
 </a>
 
-### Stack
 
+### Stack
+<!-- OS -->
+<a href="https://github.com/topics/linux">
+   <img alt="Linux" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/linux.svg" />
+</a>
 <!-- languages -->
 <a href="https://github.com/topics/php">
    <img alt="PHP" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/php.svg" />
@@ -36,28 +40,28 @@
    <img alt="Elasticsearch" width="32px" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png" />
 </a>
 <a href="https://github.com/topics/redis">
-   <img alt="Redis" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
+   <img alt="Redis" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/redis.svg" />
 </a>
 <!-- js -->
 <a href="https://github.com/topics/nodejs">
    <img alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </a>
 <a href="https://github.com/topics/graphql">
-   <img alt="Graphql" width="32px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
+   <img alt="Graphql" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/graphql.svg" />
 </a>
 <!-- ops -->
 <a href="https://github.com/topics/kubernetes">
-   <img alt="Kubernetes" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+   <img alt="Kubernetes" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/kubernetes.svg" />
 </a>
 <a href="https://github.com/topics/docker">
-   <img alt="Docker" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+   <img alt="Docker" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/docker.svg" />
 </a>
 <!-- measurements -->
 <a href="https://github.com/topics/prometheus">
    <img alt="Prometheus" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/prometheus.svg" />
 </a>
 <a href="https://github.com/topics/grafana">
-   <img alt="Grafana" width="32px" src="https://icon-icons.com/icons2/2108/PNG/32/grafana_icon_130916.png" />
+       <img alt="Grafana" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/grafana.svg" />
 </a>
 <a href="https://github.com/topics/jaeger">
    <img alt="Jaeger" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/jaeger.svg" />
