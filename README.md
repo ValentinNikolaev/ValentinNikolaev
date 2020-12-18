@@ -64,7 +64,7 @@
        <img alt="Grafana" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/grafana.svg" />
 </a>
 <a href="https://github.com/topics/jaeger">
-   <img alt="Jaeger" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/jaeger.svg" />
+   <img alt="Jaeger" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/jaeger.png" />
 </a>
 
 <!-- clouds -->
