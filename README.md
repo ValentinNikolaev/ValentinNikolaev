@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ValentinNikolaev&hide_title=true&count_private=true&show_icons=true&theme=gotham" alt="ValentinNikolaev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ValentinNikolaev&hide_title=true&count_private=true&show_icons=true&theme=gotham&hide=contribs,issues,stars" alt="ValentinNikolaev" />
 
 ---
 
