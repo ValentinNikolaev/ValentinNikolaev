@@ -1,13 +1,13 @@
 ### Hi there 👋  
 
 <a href="https://www.linkedin.com/in/valentinnikolaev/">
-     <img align="left" alt="Valentin's LinkedIN" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/linkedin.svg" />
+     <img alt="Valentin's LinkedIN" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/valentin_siberia/">
-     <img align="left" alt="Valentin's Instagram" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/instagram.svg" />
+     <img alt="Valentin's Instagram" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/instagram.svg" />
 </a>
 <a href="https://www.deezer.com/ru/profile/30059651">
-     <img align="left" alt="Valentin's Deezer" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/deezer.svg" />
+     <img alt="Valentin's Deezer" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/deezer.svg" />
 </a>  
 
 ### Tech Stack
@@ -73,10 +73,12 @@
 
 <!--START_SECTION:waka-->
 
+---
 ```text
 No Activity tracked this Week
 ```
 
+---
 <!--END_SECTION:waka-->
 
 <!--
@@ -93,6 +95,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ValentinNikolaev&hide_title=true&count_private=true&show_icons=true&theme=gotham" alt="ValentinNikolaev" />
+
+---
 
 If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
