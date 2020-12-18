@@ -1,77 +1,76 @@
-### Hi there 👋
+### Hi there 👋  
 
 <a href="https://www.linkedin.com/in/valentinnikolaev/">
      <img align="left" alt="Valentin's LinkedIN" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/linkedin.svg" />
 </a>
-
 <a href="https://www.instagram.com/valentin_siberia/">
      <img align="left" alt="Valentin's Instagram" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/instagram.svg" />
 </a>
-
 <a href="https://www.deezer.com/ru/profile/30059651">
      <img align="left" alt="Valentin's Deezer" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/deezer.svg" />
-</a>
+</a>  
 
+### Tech Stack
 
-### Stack
 <!-- OS -->
 <a href="https://github.com/topics/linux">
-   <img alt="Linux" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/linux.svg" />
+   <img alt="Linux" title="Linux" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/linux.svg" />
 </a>
 <!-- languages -->
 <a href="https://github.com/topics/php">
-   <img alt="PHP" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/php.svg" />
+   <img alt="PHP" title="PHP"  width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/php.svg" />
 </a>
 <a href="https://github.com/topics/go">
-   <img alt="Go" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/go-lang.png" />
+   <img alt="Go" title="Go" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/go-lang.png" />
 </a>
 <a href="https://github.com/topics/python">
-   <img alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+   <img alt="Python" title="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
 <!-- rdms -->
 <a href="https://github.com/topics/postgresql">
-   <img alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/postgresql.svg" />
+   <img alt="PostgreSQL" title="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/postgresql.svg" />
 </a>
 <a href="https://github.com/topics/mysql">
-   <img alt="MySQL" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/mysql.svg" />
+   <img alt="MySQL" title="MySQL" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/mysql.svg" />
 </a>
 <!-- nosql solutions -->
 <a href="https://github.com/topics/elasticsearch">
-   <img alt="Elasticsearch" width="32px" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png" />
+   <img alt="Elasticsearch" title="Elasticsearch" width="32px" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png" />
 </a>
 <a href="https://github.com/topics/redis">
-   <img alt="Redis" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/redis.svg" />
+   <img alt="Redis" title="Redis" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/redis.svg" />
 </a>
 <!-- js -->
 <a href="https://github.com/topics/nodejs">
-   <img alt="NodeJS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+   <img alt="NodeJS" title="NodeJS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </a>
 <a href="https://github.com/topics/graphql">
-   <img alt="Graphql" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/graphql.svg" />
+   <img alt="Graphql" title="Graphql" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/graphql.svg" />
 </a>
 <!-- ops -->
 <a href="https://github.com/topics/kubernetes">
-   <img alt="Kubernetes" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/kubernetes.svg" />
+   <img alt="Kubernetes" title="Kubernetes" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/kubernetes.svg" />
 </a>
 <a href="https://github.com/topics/docker">
-   <img alt="Docker" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/docker.svg" />
+   <img alt="Docker" title="Docker" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/docker.svg" />
 </a>
 <!-- measurements -->
 <a href="https://github.com/topics/prometheus">
-   <img alt="Prometheus" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/prometheus.svg" />
+   <img alt="Prometheus" title="Prometheus" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/prometheus.svg" />
 </a>
 <a href="https://github.com/topics/grafana">
-       <img alt="Grafana" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/grafana.svg" />
+       <img alt="Grafana" title="Grafana" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/grafana.svg" />
 </a>
 <a href="https://github.com/topics/jaeger">
-   <img alt="Jaeger" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/jaeger.png" />
+   <img alt="Jaeger" title="Jaeger"  width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/jaeger.png" />
 </a>
 
 <!-- clouds -->
 
 <a href="https://github.com/topics/aws">
-   <img alt="Amazon Web Services" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/aws.svg" />
+   <img alt="Amazon Web Services" title="Amazon Web Services"  width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/aws.svg" />
 </a>
+
 <!--START_SECTION:waka-->
 
 ```text
