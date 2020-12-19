@@ -12,8 +12,6 @@
 <p>Being a software engineer with vast experience in commercial development, my prior concern is business task fulfillment.
 Despite this, I constantly search for balance between making feature work and positive customer experience.
 </p>
-<p>
-Opened to projects for web-based applications, mobile apps, research and development, and architecture definition.</p>
 
 ### 🔭 Languages and Tools:
 <code>
