@@ -5,6 +5,7 @@
 [![Telegram](https://img.shields.io/badge/-Mustdie1bit-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@Mustdie1bit)](https://web.telegram.org/#/im?p=@Mustdie1bit)
 [![Deezer](https://img.shields.io/badge/-mustdie1bit-00c7f2?style=flat&logo=Deezer&logoColor=white&link=https://www.deezer.com/ru/profile/30059651)](https://www.deezer.com/ru/profile/30059651)
 ![Stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/748402?label=reputation&logo=stackoverflow)
+[![Repos](https://badges.pufler.dev/repos/ValentinNikolaev)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ValentinNikolaev.ValentinNikolaev)
 
 <p>I'm Valentin, Backend developer from <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/ukraine.svg" width="13"/> <b>Kyiv, Ukraine</b>, currently living in <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/turkey.svg" width="13"/> <b>Antalya, Turkey</b>.</p>
