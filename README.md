@@ -4,7 +4,7 @@
 </br> I'm Valentin, Backend developer from <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/ukraine.svg" width="13"/> <b>Kyiv, Ukraine</b>, currently living in <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/turkey.svg" width="13"/> <b>Antalya, Turkey</b>. </p>
 
 ### Languages and Tools:
-
+<code>
 <!-- OS -->
 <a href="https://github.com/topics/linux">
    <img alt="Linux" title="Linux" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/linux.svg" />
@@ -63,6 +63,7 @@
 <a href="https://github.com/topics/aws">
    <img alt="Amazon Web Services" title="Amazon Web Services"  width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/aws.svg" />
 </a>
+</code>
 
 
 <h3>Weekly Development Breakdown</h3>
