@@ -1,6 +1,7 @@
 ### Hi there 👋  
 
-<p>Welcome to my page! </br> I'm Valentin, Backend developer from <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/ukraine.svg" width="13"/> <b>Kyiv, Ukraine</b>, currently living in <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/turkey.svg" width="13"/> <b>Antalya, Turkey</b>. </p>
+<p>Welcome to my page! 
+</br> I'm Valentin, Backend developer from <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/ukraine.svg" width="13"/> <b>Kyiv, Ukraine</b>, currently living in <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/turkey.svg" width="13"/> <b>Antalya, Turkey</b>. </p>
 
 ### Things I code with
 
@@ -107,9 +108,9 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ValentinNikolaev&hide_title=true&count_private=true&show_icons=true&theme=gotham&hide=contribs,issues,stars" alt="ValentinNikolaev" />
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ValentinNikolaev.ValentinNikolaev)
+
 ---
-
-
-If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
 <a href="https://buymeacoff.ee/vnikolaev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
