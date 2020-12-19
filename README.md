@@ -67,6 +67,7 @@
 
 <h3>Weekly Development Breakdown</h3>
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
