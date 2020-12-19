@@ -1,9 +1,12 @@
 ### Hi there 👋  
 
-<p>Welcome to my page! 
-</br> I'm Valentin, Backend developer from <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/ukraine.svg" width="13"/> <b>Kyiv, Ukraine</b>, currently living in <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/turkey.svg" width="13"/> <b>Antalya, Turkey</b>. </p>
+[![Linkedin Badge](https://img.shields.io/badge/-valentinnikolaev-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentinnikolaev/)](https://www.linkedin.com/in/valentinnikolaev/)
+[![Instagram Badge](https://img.shields.io/badge/-valentin_siberia-e95950?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/valentin_siberia/)](https://www.instagram.com/valentin_siberia/)
+[![Deezer Badge](https://img.shields.io/badge/-mustdie1bit-00c7f2?style=flat&logo=Deezer&logoColor=white&link=https://www.deezer.com/ru/profile/30059651)](https://www.deezer.com/ru/profile/30059651)
 
-### Languages and Tools:
+<p>I'm Valentin, Backend developer from <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/ukraine.svg" width="13"/> <b>Kyiv, Ukraine</b>, currently living in <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/turkey.svg" width="13"/> <b>Antalya, Turkey</b>. Opened to projects for web-based applications, mobile apps, research and development, and architecture definition.</p>
+
+### 🔭 Languages and Tools:
 <code>
 <!-- OS -->
 <a href="https://github.com/topics/linux">
@@ -66,14 +69,16 @@
 </code>
 
 
-<h3>Weekly Development Breakdown</h3>
+<h3>🤔 Weekly Development Breakdown</h3>
 <!--START_SECTION:waka-->
+
 ```text
 Markdown   1 hr 16 mins    ████████████████████░░░░░   79.64 % 
 YAML       9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 Other      7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 Go         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
+
 <!--END_SECTION:waka-->
 
 <!--
@@ -100,18 +105,6 @@ Here are some ideas to get you started:
 
 ---
 
-
-<h3>Where to find me</h3>
 <p>
-
-<a href="https://www.linkedin.com/in/valentinnikolaev/">
-     <img alt="Valentin's LinkedIN" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/valentin_siberia/">
-     <img alt="Valentin's Instagram" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/instagram.svg" />
-</a>
-<a href="https://www.deezer.com/ru/profile/30059651">
-     <img alt="Valentin's Deezer" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/deezer.svg" />
-</a>  
 <a href="https://buymeacoff.ee/vnikolaev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="32" ></a>
 </p>
