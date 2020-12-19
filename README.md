@@ -68,12 +68,12 @@
 
 <h3>Weekly Development Breakdown</h3>
 <!--START_SECTION:waka-->
-
 ```text
-No Activity tracked this Week
+Markdown   1 hr 16 mins    ████████████████████░░░░░   79.64 % 
+YAML       9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Other      7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Go         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
-
----
 <!--END_SECTION:waka-->
 
 <!--
