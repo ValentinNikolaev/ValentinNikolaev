@@ -1,8 +1,9 @@
 ### Hi there 👋  
 
-[![Linkedin Badge](https://img.shields.io/badge/-valentinnikolaev-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentinnikolaev/)](https://www.linkedin.com/in/valentinnikolaev/)
-[![Instagram Badge](https://img.shields.io/badge/-valentin_siberia-e95950?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/valentin_siberia/)](https://www.instagram.com/valentin_siberia/)
-[![Deezer Badge](https://img.shields.io/badge/-mustdie1bit-00c7f2?style=flat&logo=Deezer&logoColor=white&link=https://www.deezer.com/ru/profile/30059651)](https://www.deezer.com/ru/profile/30059651)
+[![Linkedin](https://img.shields.io/badge/-valentinnikolaev-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentinnikolaev/)](https://www.linkedin.com/in/valentinnikolaev/)
+[![Instagram](https://img.shields.io/badge/-valentin_siberia-e95950?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/valentin_siberia/)](https://www.instagram.com/valentin_siberia/)
+[![Telegram](https://img.shields.io/badge/-Mustdie1bit-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@Mustdie1bit)](https://web.telegram.org/#/im?p=@Mustdie1bit)
+[![Deezer](https://img.shields.io/badge/-mustdie1bit-00c7f2?style=flat&logo=Deezer&logoColor=white&link=https://www.deezer.com/ru/profile/30059651)](https://www.deezer.com/ru/profile/30059651)
 ![Stackoverflow reputation](https://img.shields.io/stackexchange/stackoverflow/r/748402?label=reputation&logo=stackoverflow)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ValentinNikolaev.ValentinNikolaev)
 
