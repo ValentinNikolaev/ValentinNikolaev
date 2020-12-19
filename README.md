@@ -1,16 +1,8 @@
 ### Hi there 👋  
 
-<a href="https://www.linkedin.com/in/valentinnikolaev/">
-     <img alt="Valentin's LinkedIN" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/valentin_siberia/">
-     <img alt="Valentin's Instagram" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/instagram.svg" />
-</a>
-<a href="https://www.deezer.com/ru/profile/30059651">
-     <img alt="Valentin's Deezer" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/deezer.svg" />
-</a>  
+<p>Welcome to my page! </br> I'm Valentin, Backend developer from <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/ukraine.svg" width="13"/> <b>Kyiv, Ukraine</b>, currently living in <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/turkey.svg" width="13"/> <b>Antalya, Turkey</b>. </p>
 
-### Tech Stack
+### Things I code with
 
 <!-- OS -->
 <a href="https://github.com/topics/linux">
@@ -73,6 +65,21 @@
 
 <!--START_SECTION:waka-->
 
+<h3>Where to find me</h3>
+<p>
+
+<a href="https://www.linkedin.com/in/valentinnikolaev/">
+     <img alt="Valentin's LinkedIN" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/valentin_siberia/">
+     <img alt="Valentin's Instagram" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/instagram.svg" />
+</a>
+<a href="https://www.deezer.com/ru/profile/30059651">
+     <img alt="Valentin's Deezer" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/deezer.svg" />
+</a>  
+</p>
+
+
 ---
 ```text
 No Activity tracked this Week
@@ -101,6 +108,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ValentinNikolaev&hide_title=true&count_private=true&show_icons=true&theme=gotham&hide=contribs,issues,stars" alt="ValentinNikolaev" />
 
 ---
+
 
 If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
