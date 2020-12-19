@@ -103,10 +103,3 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ValentinNikolaev&hide_title=true&count_private=true&show_icons=true&theme=gotham&hide=contribs,issues,stars" alt="ValentinNikolaev" />
 
 
-
-
----
-
-<p>
-<a href="https://buymeacoff.ee/vnikolaev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="32" ></a>
-</p>
