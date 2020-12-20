@@ -80,10 +80,10 @@ Despite this, I constantly search for balance between making feature work and po
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   1 hr 16 mins    ████████████████████░░░░░   79.64 % 
-YAML       9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Other      7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Go         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Markdown   1 hr 25 mins    ████████████████████▒░░░░   81.18 % 
+YAML       9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Other      7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Go         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 ```
 <!--END_SECTION:waka-->
 
