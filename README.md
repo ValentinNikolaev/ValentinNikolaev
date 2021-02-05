@@ -80,9 +80,7 @@ Despite this, I constantly search for balance between making feature work and po
 
 <!--START_SECTION:waka-->
 ```text
-Go         3 hrs 59 mins   ████████████████████████▒   97.61 % 
-JSON       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+JSON       1 min           ████████████████████████▓   98.68 % 
 ```
 <!--END_SECTION:waka-->
 
