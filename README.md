@@ -80,8 +80,9 @@ Despite this, I constantly search for balance between making feature work and po
 
 <!--START_SECTION:waka-->
 ```text
-PHP      12 hrs 55 mins  ███████████████████████▒░   92.91 % 
-Go       59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+PHP        11 hrs 38 mins  ██████████████████████░░░   88.21 % 
+Go         59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Smarty     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 ```
 <!--END_SECTION:waka-->
 
