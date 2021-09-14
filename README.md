@@ -80,11 +80,11 @@ Despite this, I constantly search for balance between making feature work and po
 
 <!--START_SECTION:waka-->
 ```text
-PHP          25 hrs 9 mins   ███████████████████▒░░░░░   77.63 % 
-JavaScript   4 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-CSS          2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+PHP          21 hrs 5 mins   ███████████████████▓░░░░░   78.68 % 
+Git Config   2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+CSS          2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+JavaScript   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 <!--END_SECTION:waka-->
 
