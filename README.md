@@ -80,10 +80,10 @@ Despite this, I constantly search for balance between making feature work and po
 
 <!--START_SECTION:waka-->
 ```text
-PHP          15 hrs 53 mins  ████████████▒░░░░░░░░░░░░   49.88 % 
-JavaScript   12 hrs 3 mins   █████████▒░░░░░░░░░░░░░░░   37.84 % 
-Markdown     3 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-SQL          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+PHP          15 hrs 53 mins  ████████████▒░░░░░░░░░░░░   48.92 % 
+JavaScript   12 hrs 40 mins  █████████▓░░░░░░░░░░░░░░░   39.04 % 
+Markdown     3 hrs 43 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+SQL          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->
 
