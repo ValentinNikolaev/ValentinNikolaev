@@ -80,7 +80,10 @@ Despite this, I constantly search for balance between making feature work and po
 
 <!--START_SECTION:waka-->
 ```text
-Makefile   3 hrs 19 mins   █████████████████████████   100.00 % 
+PHP        6 hrs 48 mins   █████████████░░░░░░░░░░░░   51.43 % 
+Makefile   3 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.09 % 
+Smarty     2 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.08 % 
+SQL        34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 ```
 <!--END_SECTION:waka-->
 
