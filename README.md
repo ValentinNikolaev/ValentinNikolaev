@@ -80,6 +80,8 @@ Despite this, I constantly search for balance between making feature work and po
 
 <!--START_SECTION:waka-->
 ```text
+Total: 25 hrs 33 mins
+
 PHP      21 hrs 16 mins  ████████████████████▓░░░░   83.26 % 
 Docker   2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 SQL      1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
