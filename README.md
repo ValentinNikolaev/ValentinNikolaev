@@ -106,8 +106,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>📈 GitHub Stats</h3>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ValentinNikolaev&hide_title=true&count_private=true&show_icons=true&theme=gotham&hide=contribs,issues,stars" alt="ValentinNikolaev" />
-
 
