@@ -81,7 +81,9 @@ Despite this, I constantly search for balance between making feature work and po
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP              20 mins         ███████████████▒░░░░░░░░░   60.73 %
+GitIgnore file   13 mins         █████████▓░░░░░░░░░░░░░░░   39.09 %
+textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
