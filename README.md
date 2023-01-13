@@ -13,69 +13,6 @@
 Despite this, I constantly search for balance between making feature work and positive customer experience.
 </p>
 
-### 🔭 Languages and Tools:
-<code>
-<!-- OS -->
-<a href="https://github.com/topics/linux">
-   <img alt="Linux" title="Linux" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/linux.svg" />
-</a>
-<!-- languages -->
-<a href="https://github.com/topics/php">
-   <img alt="PHP" title="PHP"  width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/php.svg" />
-</a>
-<a href="https://github.com/topics/go">
-   <img alt="Go" title="Go" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/go-lang.png" />
-</a>
-<a href="https://github.com/topics/python">
-   <img alt="Python" title="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-</a>
-<!-- rdms -->
-<a href="https://github.com/topics/postgresql">
-   <img alt="PostgreSQL" title="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/postgresql.svg" />
-</a>
-<a href="https://github.com/topics/mysql">
-   <img alt="MySQL" title="MySQL" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/mysql.svg" />
-</a>
-<!-- nosql solutions -->
-<a href="https://github.com/topics/elasticsearch">
-   <img alt="Elasticsearch" title="Elasticsearch" width="32px" src="https://raw.githubusercontent.com/github/explore/d73b58ded658144cd29547485b8537306012eb86/topics/elasticsearch/elasticsearch.png" />
-</a>
-<a href="https://github.com/topics/redis">
-   <img alt="Redis" title="Redis" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/redis.svg" />
-</a>
-<!-- js -->
-<a href="https://github.com/topics/nodejs">
-   <img alt="NodeJS" title="NodeJS" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-</a>
-<a href="https://github.com/topics/graphql">
-   <img alt="Graphql" title="Graphql" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/graphql.svg" />
-</a>
-<!-- ops -->
-<a href="https://github.com/topics/kubernetes">
-   <img alt="Kubernetes" title="Kubernetes" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/kubernetes.svg" />
-</a>
-<a href="https://github.com/topics/docker">
-   <img alt="Docker" title="Docker" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/docker.svg" />
-</a>
-<!-- measurements -->
-<a href="https://github.com/topics/prometheus">
-   <img alt="Prometheus" title="Prometheus" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/prometheus.svg" />
-</a>
-<a href="https://github.com/topics/grafana">
-       <img alt="Grafana" title="Grafana" width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/grafana.svg" />
-</a>
-<a href="https://github.com/topics/jaeger">
-   <img alt="Jaeger" title="Jaeger"  width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/jaeger.png" />
-</a>
-
-<!-- clouds -->
-
-<a href="https://github.com/topics/aws">
-   <img alt="Amazon Web Services" title="Amazon Web Services"  width="32px" src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/aws.svg" />
-</a>
-</code>
-
-
 <h3>🤔 Weekly Development Breakdown</h3>
 
 <!--START_SECTION:waka-->
