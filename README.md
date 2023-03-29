@@ -18,12 +18,12 @@ Despite this, I constantly search for balance between making feature work and po
 <!--START_SECTION:waka-->
 
 ```text
-PHP              34 hrs 10 mins  ███████████████████████▓░   95.15 %
-Blade Template   51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Text             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-textmate         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Markdown         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+PHP              32 hrs 33 mins  █████████████████████░░░░   84.54 %
+JSON             5 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Blade Template   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+textmate         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+.env file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
