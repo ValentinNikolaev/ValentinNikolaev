@@ -19,7 +19,7 @@ Despite this, I constantly search for balance between making feature work and po
 
 ```text
 PHP             20 hrs 24 mins  █████████████████████▓░░░   86.75 %
-.env file       2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
+.env file       2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
 SmartyConfig    33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 JSON            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 YAML            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
