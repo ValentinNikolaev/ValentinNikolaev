@@ -18,12 +18,12 @@ Despite this, I constantly search for balance between making feature work and po
 <!--START_SECTION:waka-->
 
 ```text
-PHP             27 hrs 56 mins  ██████████████████████▒░░   89.97 %
-.env file       2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-SmartyConfig    33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-JSON            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-YAML            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Text            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+PHP             29 hrs 59 mins  █████████████████████████   99.91 %
+htaccess        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Smarty          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JSON            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+HTML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Apache Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
