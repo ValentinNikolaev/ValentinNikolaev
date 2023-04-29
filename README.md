@@ -18,11 +18,12 @@ Despite this, I constantly search for balance between making feature work and po
 <!--START_SECTION:waka-->
 
 ```text
-PHP        36 hrs 12 mins  █████████████████████████   99.94 %
-htaccess   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Smarty     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PHP            31 hrs 48 mins  █████████████████████░░░░   83.61 %
+YAML           4 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+JSON           50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+SmartyConfig   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Docker         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Text           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
