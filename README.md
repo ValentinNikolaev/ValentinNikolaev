@@ -18,11 +18,11 @@ Despite this, I constantly search for balance between making feature work and po
 <!--START_SECTION:waka-->
 
 ```text
-PHP              12 hrs 4 mins   ██████████████████▓░░░░░░   74.33 %
-JavaScript       1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
-Vue.js           1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Blade Template   43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-JSON             40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+PHP              19 hrs 9 mins   ███████████████████████▓░   94.99 %
+JSON             40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+SmartyConfig     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Blade Template   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
