@@ -17,7 +17,7 @@ Despite this, I constantly search for balance between making feature work and po
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 PHP              39 hrs 14 mins  ██████████████████▓░░░░░░   74.20 %
 YAML             6 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
 JSON             1 hr 43 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
