@@ -18,8 +18,8 @@ Despite this, I constantly search for balance between making feature work and po
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   2 hrs 48 mins   ███████████████████▒░░░░░   76.84 %
-PHP              50 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
+PHP              37 mins         █████████████████████████   99.96 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
