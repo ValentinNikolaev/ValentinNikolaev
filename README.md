@@ -18,10 +18,11 @@ Despite this, I constantly search for balance between making feature work and po
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              2 hrs 16 mins   ███████████████████████░░   91.39 %
-Blade Template   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-SQL              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+PHP              2 hrs 49 mins   ██████████████████████░░░   87.36 %
+Blade Template   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+JSON             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+SQL              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
