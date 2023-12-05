@@ -18,7 +18,11 @@ Despite this, I constantly search for balance between making feature work and po
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go          2 hrs 54 mins   ███████████████░░░░░░░░░░   60.03 %
+Text        1 hr 30 mins    ███████▓░░░░░░░░░░░░░░░░░   31.13 %
+Makefile    13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Markdown    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Docker      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
