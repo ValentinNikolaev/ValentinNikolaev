@@ -8,7 +8,7 @@
 [![Repos](https://badges.pufler.dev/repos/ValentinNikolaev)](https://badges.pufler.dev)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ValentinNikolaev.ValentinNikolaev)
 
-<p>I'm Valentin, Backend developer from <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/ukraine.svg" width="13"/> <b>Kyiv, Ukraine</b>, currently living in <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/italy.svg" width="13"/> <b>Roma, Italy</b>.</p>
+<p>I'm Valentin, Backend developer from <img src="https://raw.githubusercontent.com/ValentinNikolaev/ValentinNikolaev/main/assets/flags/ukraine.svg" width="13"/> <b>Kyiv, Ukraine</b>, currently living in <b>Roma, Italy</b>.</p>
 <p>Being a software engineer with vast experience in commercial development, my prior concern is business task fulfillment.
 Despite this, I constantly search for balance between making feature work and positive customer experience.
 </p>
