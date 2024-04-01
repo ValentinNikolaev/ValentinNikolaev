@@ -20,7 +20,7 @@ Despite this, I constantly search for balance between making feature work and po
 ```txt
 Go                   26 hrs 56 mins  █████████████████████▓░░░   87.10 %
 Makefile             1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
-PHP                  1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+PHP                  1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
 Bash                 8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 Blade Template       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
