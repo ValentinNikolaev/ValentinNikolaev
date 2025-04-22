@@ -19,7 +19,7 @@ Despite this, I constantly search for balance between making feature work and po
 
 ```txt
 PHP            15 hrs 19 mins  ██████████████▓░░░░░░░░░░   58.20 %
-Go             6 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
+Go             6 hrs 41 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
 SQL            3 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
 .env file      21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 YAML           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
