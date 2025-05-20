@@ -18,11 +18,11 @@ Despite this, I constantly search for balance between making feature work and po
 <!--START_SECTION:waka-->
 
 ```txt
-Go                25 hrs 33 mins  ████████████░░░░░░░░░░░░░   47.80 %
-PHP               13 hrs 36 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.47 %
-SQL               6 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Markdown          4 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-YAML              1 hr 24 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Go                   21 hrs 49 mins  █████████▒░░░░░░░░░░░░░░░   37.42 %
+PHP                  15 hrs 8 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
+SQL                  9 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
+Markdown             4 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+YAML                 2 hrs 57 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
 ```
 
 <!--END_SECTION:waka-->
