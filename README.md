@@ -20,7 +20,7 @@ Despite this, I constantly search for balance between making feature work and po
 ```txt
 Go           22 hrs 23 mins        █████████████████████░░░░   84.33 %
 YAML         2 hrs 16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-SQL          1 hr 24 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+SQL          1 hr 24 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 Makefile     23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 XML          3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
