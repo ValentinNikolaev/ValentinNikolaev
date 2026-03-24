@@ -18,11 +18,11 @@ Despite this, I constantly search for balance between making feature work and po
 <!--START_SECTION:waka-->
 
 ```txt
-Go             22 hrs 23 mins        █████████████████████░░░░   84.32 %
-YAML           2 hrs 16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
-SQL            1 hr 24 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Makefile       23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-XML            3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Go             21 hrs 57 mins        ██████████████████████▒░░   89.39 %
+YAML           1 hr 26 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+SQL            50 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Makefile       15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+XML            3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
