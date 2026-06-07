@@ -21,7 +21,7 @@ Despite this, I constantly search for balance between making feature work and po
 Go               9 hrs 51 mins         ███████████░░░░░░░░░░░░░░   44.64 %
 TypeScript       3 hrs 10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
 Other            3 hrs 7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
-JSON             1 hr 26 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+JSON             1 hr 26 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
 YAML             1 hr 15 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 ```
 
