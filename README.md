@@ -18,11 +18,11 @@ Despite this, I constantly search for balance between making feature work and po
 <!--START_SECTION:waka-->
 
 ```txt
-Go               9 hrs 10 mins         ██████████░░░░░░░░░░░░░░░   39.71 %
-Markdown         9 hrs 8 mins          ██████████░░░░░░░░░░░░░░░   39.57 %
-TypeScript       1 hr 41 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
-JSON             1 hr                  █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-YAML             29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Go               10 hrs 20 mins        ███████████░░░░░░░░░░░░░░   44.17 %
+Markdown         9 hrs 5 mins          █████████▓░░░░░░░░░░░░░░░   38.84 %
+.env file        1 hr 28 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+YAML             1 hr 1 min            █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Terraform        22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
