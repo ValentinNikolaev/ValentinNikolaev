@@ -1,10 +1,3 @@
-### Hi there 👋  
-
-[![Linkedin](https://img.shields.io/badge/-valentinnikolaev-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valentinnikolaev/)](https://www.linkedin.com/in/valentinnikolaev/)
-[![Instagram](https://img.shields.io/badge/-valentin_siberia-e95950?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/valentin_siberia/)](https://www.instagram.com/valentin_siberia/)
-[![Telegram](https://img.shields.io/badge/-Mustdie1bit-0088cc?style=flat&logo=Telegram&logoColor=white&link=https://web.telegram.org/#/im?p=@Mustdie1bit)](https://web.telegram.org/#/im?p=@Mustdie1bit)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ValentinNikolaev.ValentinNikolaev)
-
 # Oh, hi 👋
 
 I'm Valentin. I make computers do boring things so people don't have to.
@@ -33,6 +26,8 @@ I like boring production, useful tools, clear docs, and code reviews written by 
 
 [LinkedIn](https://www.linkedin.com/in/valentinnikolaev/) for the respectable version of me.  
 [Telegram](https://t.me/Mustdie1bit) for the actual one.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ValentinNikolaev.ValentinNikolaev)
 
 <details>
 <summary>⌨️ What I've been typing lately</summary>
