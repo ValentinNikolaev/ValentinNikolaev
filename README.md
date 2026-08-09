@@ -35,11 +35,11 @@ I like boring production, useful tools, clear docs, and code reviews written by 
 <!--START_SECTION:waka-->
 
 ```txt
-Go                    38 hrs 32 mins        ██████████████▒░░░░░░░░░░   56.69 %
-Markdown              11 hrs 56 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
-YAML                  5 hrs 54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Other                 3 hrs 28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-JavaScript            1 hr 58 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Go                    36 hrs 45 mins        ████████████▓░░░░░░░░░░░░   50.86 %
+Markdown              14 hrs 42 mins        █████░░░░░░░░░░░░░░░░░░░░   20.35 %
+YAML                  6 hrs 1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Other                 3 hrs 43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+JavaScript            2 hrs 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 ```
 
 <!--END_SECTION:waka-->
