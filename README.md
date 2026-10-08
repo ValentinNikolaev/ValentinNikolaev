@@ -1,31 +1,34 @@
 # Oh, hi 👋
 
-I'm Valentin. I make computers do boring things so people don't have to.
+I'm Valentin. I build backends in Go and PHP, and tools that save someone a repetitive job.
 
-Mostly Go and PHP. Sometimes Python gets involved and the situation escalates.
+A lot of my work involves getting services to talk to each other, moving messages around, and being able to explain what happened afterwards. I like clear contracts, useful logs and documentation that answers the next person's question.
 
-From Kyiv, currently somewhere near Rome.
+From Kyiv, now based near Rome.
 
-## Current side quests
+## What I'm building here
 
-- [PHP Upgrade Preflight](https://github.com/ValentinNikolaev/php-upgrade-preflight)  
-  Asks Composer what will explode before you press the upgrade button.
+- [PHP Upgrade Preflight](https://github.com/ValentinNikolaev/php-upgrade-preflight)
 
-- [Job Intelligence](https://github.com/ValentinNikolaev/job-intelligence)  
-  Job hunting with schemas, hashes, and an unreasonable number of tests.
+  A look at Composer dependencies, PHP compatibility and source risks before an upgrade, while there's still time to plan it.
 
-- [Agent Plugins](https://github.com/ValentinNikolaev/llm-skills)  
-  Reusable skills for Codex and Claude. Maintained once because copying folders got old.
+- [Job Intelligence](https://github.com/ValentinNikolaev/job-intelligence)
 
-- [PHP Analysis Tools Catalog](https://github.com/ValentinNikolaev/php-analysis-tools-catalog)  
-  PHP analysis tools in one place so you don't need to keep 80 tabs open.
+  My job-search workflow. Codex helps with judgement and writing, while code collects vacancies and checks the results.
 
-I like boring production, useful tools, clear docs, and code reviews written by humans.
+- [Agent Skills](https://github.com/ValentinNikolaev/agent-skills)
+
+  Workflows for Codex and Claude Code, covering reviews, documentation, memory and writing. Maintained in one place and generated for both.
+
+- [PHP Analysis Tools Catalog](https://github.com/ValentinNikolaev/php-analysis-tools-catalog)
+
+  PHP tools for static analysis, code quality, refactoring and security, gathered in one place so they're easier to find and compare.
+
+I like production to be uneventful. I've never felt it owed me entertainment.
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/valentinnikolaev/) for the respectable version of me.  
-[Telegram](https://t.me/Mustdie1bit) for the actual one.
+[LinkedIn](https://www.linkedin.com/in/valentinnikolaev/) · [Telegram](https://t.me/Mustdie1bit)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ValentinNikolaev.ValentinNikolaev)
 
