@@ -1,36 +1,30 @@
 # Oh, hi 👋
 
-I'm Valentin, a backend engineer with 15+ years of experience building production systems and leading engineering teams.
+I'm Valentin. I build backends in Go and PHP, and tools that save someone a repetitive job.
 
-I work mostly in Go and PHP, across APIs, support automation, event analytics and messaging infrastructure. I've led backend teams at airSlate, Hyprr and PDFfiller, and I still enjoy getting into the code.
+A lot of my work involves getting services to talk to each other, moving messages around, and being able to explain what happened afterwards. I like clear contracts, useful logs and documentation that answers the next person's question.
 
 From Kyiv, now based near Rome.
-
-## A few things I've worked on
-
-- **Support automation at Simple.life.** Designed and owned a Go platform connecting Zendesk, Intercom and internal services, handling 20,000+ tickets in an ordinary month and up to three times that volume in peak season. My work included AI-assisted support workflows and running the platform under that load.
-- **Event analytics at CRURATED.** Took technical ownership of production DataLake pipelines and parallel event-version publishing in a concurrent part-time consulting engagement. The backend used PHP, Laravel, queues and AWS EventBridge.
-- **Email infrastructure at PDFfiller.** Led five backend engineers working on transactional email delivery, with roughly 3 million emails in an ordinary month and up to ten times that volume during Black Friday and Cyber Monday.
-
-I like automation that takes repetitive work off someone's hands, APIs with clear contracts, and monitoring that helps explain what a system actually did. I like production to be uneventful, which is a surprisingly eventful line of work.
 
 ## What I'm building here
 
 - [PHP Upgrade Preflight](https://github.com/ValentinNikolaev/php-upgrade-preflight)
 
-  Checks Composer dependencies, PHP compatibility and source risks before a planned upgrade. It produces a report you can use to plan the work.
+  A look at Composer dependencies, PHP compatibility and source risks before an upgrade, while there's still time to plan it.
 
 - [Job Intelligence](https://github.com/ValentinNikolaev/job-intelligence)
 
-  My workflow for collecting vacancies, checking them against my experience and preparing applications. Codex handles the analysis and writing, with deterministic tooling to validate the results.
+  My job-search workflow. Codex helps with judgement and writing, while code collects vacancies and checks the results.
 
 - [Agent Skills](https://github.com/ValentinNikolaev/agent-skills)
 
-  Reusable workflows for Codex and Claude Code, covering code review, documentation, project memory and writing. One source, with generated distributions for both.
+  Workflows for Codex and Claude Code, covering reviews, documentation, memory and writing. Maintained in one place and generated for both.
 
 - [PHP Analysis Tools Catalog](https://github.com/ValentinNikolaev/php-analysis-tools-catalog)
 
-  A curated catalog of PHP tools for static analysis, code quality, refactoring and security.
+  PHP tools for static analysis, code quality, refactoring and security, gathered in one place so they're easier to find and compare.
+
+I like production to be uneventful. I've never felt it owed me entertainment.
 
 ## Elsewhere
 
