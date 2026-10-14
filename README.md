@@ -38,11 +38,11 @@ I like production to be uneventful. I've never felt it owed me entertainment.
 <!--START_SECTION:waka-->
 
 ```txt
-Go               15 hrs 26 mins        ████████████████▓░░░░░░░░   66.28 %
-YAML             4 hrs 41 mins         █████░░░░░░░░░░░░░░░░░░░░   20.17 %
-TypeScript       2 hrs 49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-Other            17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-JavaScript       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Go               14 hrs 16 mins        ███████████████████▒░░░░░   77.31 %
+YAML             3 hrs 33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
+TypeScript       34 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+JavaScript       2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Markdown         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
