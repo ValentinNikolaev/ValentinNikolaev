@@ -38,11 +38,11 @@ I like production to be uneventful. I've never felt it owed me entertainment.
 <!--START_SECTION:waka-->
 
 ```txt
-Other            13 hrs 42 mins        ████████████▒░░░░░░░░░░░░   49.82 %
-Markdown         6 hrs 55 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
-Go               2 hrs 48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-JSON             2 hrs 14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-Python           46 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Other            5 hrs 37 mins         ███████████▓░░░░░░░░░░░░░   46.77 %
+Markdown         2 hrs 12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
+Go               1 hr 52 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
+JSON             52 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+TypeScript       34 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
 ```
 
 <!--END_SECTION:waka-->
